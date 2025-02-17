@@ -1,5 +1,5 @@
 {
-  "name": "random-string-module",
+  "name": "random-string-module-pbk",
   "version": "0.10.0",
   "description": "A module that returns random alphanumeric of specified length requested",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phill2k12/random-string-module.git"
+    "url": "git+https://github.com/phill2k12/random-string-module-pbk.git"
   },
   "keywords": [
     "string",
@@ -20,7 +20,7 @@
   "author": "Phillip B. Kelly",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phill2k12/random-string-module/issues"
+    "url": "https://github.com/phill2k12/random-string-module-pbk/issues"
   },
-  "homepage": "https://github.com/phill2k12/random-string-module#readme"
+  "homepage": "https://github.com/phill2k12/random-string-module-pbk#readme"
 }
