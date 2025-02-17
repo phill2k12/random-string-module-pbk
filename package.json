@@ -1,0 +1,26 @@
+{
+  "name": "random-string-module",
+  "version": "0.10.0",
+  "description": "A module that returns random alphanumeric of specified length requested",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phill2k12/random-string-module.git"
+  },
+  "keywords": [
+    "string",
+    "random",
+    "crypto",
+    "characters"
+  ],
+  "author": "Phillip B. Kelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phill2k12/random-string-module/issues"
+  },
+  "homepage": "https://github.com/phill2k12/random-string-module#readme"
+}
